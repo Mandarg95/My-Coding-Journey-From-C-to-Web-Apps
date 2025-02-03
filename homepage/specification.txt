@@ -1,0 +1,47 @@
+HTML Tags:
+- <!DOCTYPE html>: Defines the document type and HTML version.
+- <html>: Root element of the HTML document.
+- <head>: Contains meta-information about the HTML document.
+- <meta>: Provides metadata about the HTML document.
+- <link>: Links to external resources like stylesheets.
+- <script>: Embeds or references JavaScript files.
+- <title>: Defines the title of the HTML document.
+- <body>: Contains the content of the HTML document.
+- <header>: Defines a header for a document or section.
+- <div>: Defines a division or section.
+- <nav>: Defines navigation links.
+- <a>: Defines a hyperlink.
+- <button>: Defines a clickable button.
+- <span>: Defines a section in a document.
+- <ul>: Defines an unordered list.
+- <li>: Defines a list item.
+- <h1>, <h2>, <h5>, <h6>: Defines HTML headings.
+- <p>: Defines a paragraph.
+- <input>: Defines an input control.
+- <footer>: Defines a footer for a document or section.
+- <img>: Embeds an image.
+- <i>: Defines a part of text in an alternate voice or mood.
+
+CSS Properties:
+- background-color: Sets the background color of an element.
+- color: Sets the color of the text.
+- font-family: Specifies the font for an element.
+- margin: Sets the margin area on all four sides of an element.
+- padding: Sets the padding area on all four sides of an element.
+- text-align: Specifies the horizontal alignment of text.
+- display: Specifies the type of box used for an HTML element.
+- justify-content: Aligns flex items along the main axis.
+- align-items: Aligns flex items along the cross axis.
+- flex-direction: Defines the direction of flex items.
+- border: Sets the border around an element.
+- width: Sets the width of an element.
+- height: Sets the height of an element.
+- max-width: Sets the maximum width of an element.
+- box-shadow: Adds shadow effects around an element.
+- position: Specifies the type of positioning method used for an element.
+
+JavaScript:
+- JavaScript is used to toggle dark mode on and off with a button click.
+
+Bootstrap:
+- Bootstrap is used for responsive layout and styling, including the navbar, buttons, cards, and grid system.

@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    index
+{% endblock %}
+
+{% block main %}
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th class="text-start">Symbol</th>
+                <th class="text-end">Shares</th>
+                <th class="text-end">Price</th>
+                <th class="text-end">TOTAL</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for data in index %}
+                <tr>
+                    <td class="text-start">{{data.symbol}}</td>
+                    <td class="text-end">{{data.shares}}</td>
+                    <td class="text-end">{{data.price}}</td>
+                    <td class="text-end">{{data.total}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="3">Cash</td>
+
+                <td class="border-0 text-end" colspan="3">{{cash}}</td>
+
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="3">TOTAL</td>
+
+                <td class="border-0 text-end" colspan="3">{{total}}</td>
+
+            </tr>
+        </tfoot>
+    </table>
+{% endblock %}
