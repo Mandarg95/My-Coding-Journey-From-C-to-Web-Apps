@@ -43,31 +43,27 @@ SQL queries that analyze a movie database.
 
 A program that simulates a simple voting system.
 
-11. Final Project - Movie & TV Tracker (Flask, SQL)
-
-A full-stack web app for tracking watched movies and TV shows, integrating the TMDB API.
-
-12. Readability (C)
+11. Readability (C)
 
 A program that determines the readability score of a given text.
 
-13. Recover (C - File Recovery)
+12. Recover (C - File Recovery)
 
 A program that recovers lost JPEG images from a corrupted memory card.
 
-14. Scrabble (C - Word Scoring)
+13. Scrabble (C - Word Scoring)
 
 A game that computes Scrabble scores for given words.
 
-15. Sentimental Mario & Cash (Python)
+14. Sentimental Mario & Cash (Python)
 
 Python implementations of classic CS50 problems like Mario pyramids and coin change calculations.
 
-16. Speller (C - Spell Checker)
+15. Speller (C - Spell Checker)
 
 A program that checks spelling using a hash table-based dictionary.
 
-17. Trivia (HTML, CSS)
+16. Trivia (HTML, CSS)
 
 A simple trivia quiz web page.
 
